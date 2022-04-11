@@ -1,0 +1,44 @@
+[
+  {
+    "name": "CreateTodo",
+    "path": "/CreateTodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\CreateTodo.vue",
+    "chunkName": "pages/CreateTodo"
+  },
+  {
+    "name": "GetAllTodos",
+    "path": "/GetAllTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\GetAllTodos.vue",
+    "chunkName": "pages/GetAllTodos"
+  },
+  {
+    "name": "Login",
+    "path": "/Login",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\Login.vue",
+    "chunkName": "pages/Login"
+  },
+  {
+    "name": "MyTodos",
+    "path": "/MyTodos",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\MyTodos.vue",
+    "chunkName": "pages/MyTodos"
+  },
+  {
+    "name": "todos",
+    "path": "/todos",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\todos.vue",
+    "chunkName": "pages/todos"
+  },
+  {
+    "name": "UpdateTodo",
+    "path": "/UpdateTodo",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\UpdateTodo.vue",
+    "chunkName": "pages/UpdateTodo"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Nspira\\\\Desktop\\\\todofinal\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
